@@ -1,6 +1,6 @@
 # 2Dvideogame
 
-- The game have 3 main characters: the rocket (main), the alien (enemy) and the astronauts(actor)
+The game have 3 main characters: the rocket (main), the alien (enemy) and the astronauts(actor)
 
 
     - The main character, rocket, is controlled by the player with the keyboard.
@@ -26,7 +26,8 @@
         - Astronauts will appear on the screen and the player need to save as much as possible to gain points
         
         
-  #Creation of the Sprites 
+        
+  Creation of the Sprites 
   
   I’ve decided to you the aesthetic of 8bits for the visual concept of this video game. 
 
